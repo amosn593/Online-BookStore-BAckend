@@ -1,0 +1,14 @@
+db.sqlite3
+djackets_django/.env
+.env
+*.pyc
+*/*.pyc
+*/*/*.pyc
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+virtualenv
+venv
+venv/
+db.sqlite3  
+LICENSE
