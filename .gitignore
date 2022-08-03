@@ -1,6 +1,7 @@
 db.sqlite3
 djackets_django/.env
 .env
+.env/
 *.pyc
 */*.pyc
 */*/*.pyc
